@@ -1,0 +1,13 @@
+go to git -> user -> settings -> Developer Settings -> Personal Access Tokens -> Generate Token -> Tick All -> Generate
+Copy the token for the password
+
+cmd> git remote add origin3 https://github.com/balajee-rm/JFSD-CLOUD.git
+cmd> git push -u origin3 master
+cmd> username: balajee.rm@gmail.com
+cmd> password: <Generated_Key>
+
+In eclipse -> server -> bootstrap.properties
+spring.cloud.config.server.git.uri=https://github.com/balajee-rm/JFSD-CLOUD.git
+spring.cloud.config.server.git.uri.username=balajee.rm@gmail.com
+spring.cloud.config.server.git.uri.password=<Generated_Key>
+
