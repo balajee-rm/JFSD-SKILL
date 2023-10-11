@@ -1,0 +1,30 @@
+Steps to follow to get gmail passcode: 
+--------------------------------------
+• Open GMAIL account 
+• Manage your google account open 
+ 
+• Goto security 
+ 
+• Verify 2-step verification 
+• open 2-step verification 
+• enter GMAIL password 
+ 
+• open  App passwords 
+• app name : spring 
+• create 
+ 
+• copy code 
+• xxxxxxxxxxxxx 
+ 
+
+Editing
+--------
+• paste in inplace of GMAIL password in ——- application.properties file 
+ 
+ Running
+---------
+• http://localhost:8081/email/send
+
+Output
+-------
+• email sent Successfully
