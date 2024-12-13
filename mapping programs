@@ -22,3 +22,10 @@ Spring Boot MVC, REACT, REST Service, Pagination, React Login, Logout, Multiple 
 Microservice, Spring Boot, Server, 2 Calculator Client, 1 Load Balancer Client, 1 API Gateway Client - ms-server.zip, ms-client-1.zip, ms-client-2.zip, ms-client-3.zip, ms-api-client.zip 
 Spring Cloud, Server and Client, Variable value Reterieval based on Active Profile - sc-s13-client.zip, sc-s13-server.zip
 JWT Token Generation and Validation, AES with MD5 Encryption and Decryption - JWT.zip
+
+FSD PROJECT
+-----------
+TITLE: GROSSARY STORE
+Client Features: Redux based Routing (Single Page App), Role Based Access, Cart Page, Payment Gateway, Order Display, Bill Generation
+Server Side: Spring Boot, JPA, Encryption and Decryption, JWT Token, API-Gateway, Microservice Load Balancer (ms-client-1), Microservice Delivering Client (ms-client-2, ms-client-3), Microservice Euraka Server 
+File: Complete Project.zip
